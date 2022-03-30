@@ -93,7 +93,7 @@ Lave, Jean, and Etienne Wenger. _Situated Learning: Legitimate Peripheral Partic
 {{< tdopen >}}
 
 
-Mattuck, Arthur P. [_The Torch or the Firehose: A Guide to Section Teaching_](/resources/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/index.htm). Cambridge, MA: MIT Press, 1995.
+Mattuck, Arthur P. [_The Torch or the Firehose: A Guide to Section Teaching_](/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009). Cambridge, MA: MIT Press, 1995.
 
 Schoenfeld, Alan H. _Mathematical Problem Solving_. Orlando, FL: Academic Press, 1985, pp. 11-45. ISBN: 9780126288704.
 

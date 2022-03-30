@@ -4,6 +4,7 @@ description: This resource contains the information regarding an option for inte
   autonomy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/fda8f35c6f6f1dd78348d59f46b48eeb_MITES_291S03_appenEandF.pdf
 file_type: application/pdf
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: An Option for Intellectual Autonomy
 uid: fda8f35c-6f6f-1dd7-8348-d59f46b48eeb

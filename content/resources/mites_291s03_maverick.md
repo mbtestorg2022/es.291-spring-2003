@@ -4,6 +4,7 @@ description: This resource contains the information regarding Fourteen notable e
   in american undergraduate education.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/d8656a9c2abc2e425f048819b198070f_MITES_291S03_maverick.pdf
 file_type: application/pdf
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: Fourteen Notable Experiments in American Undergraduate Education
 uid: d8656a9c-2abc-2e42-5f04-8819b198070f
